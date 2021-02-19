@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/video"
+        android:title="@string/video"
+        android:icon="@drawable/video_icon"
+        android:tooltipText="@string/video"/>
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/ic_baseline_camera_24"
+        android:title="@string/camera"
+        android:tooltipText="@string/camera" />
+    <item
+        android:id="@+id/posts"
+        android:title="@string/posts"
+        android:icon="@drawable/post_icon"
+        android:tooltipText="@string/posts"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profile"
+        android:icon="@drawable/profile_icon"
+        android:tooltipText="@string/profile"/>
+
+</menu>

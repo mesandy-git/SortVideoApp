@@ -1,0 +1,28 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gradle
+.idea/workspace.xml/
+.idea/libraries
+/captures
+build/
+app/build/
+.gradle/
+
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/
+*.properties
+
+# General Files
+
+.project
+.classpath
+.DS_Store
+# gradlew comment when using gradle wrapper
+# gradlew.bat comment when using gradle wrapper
+Thumbs.db
+local.properties
+app/app.iml
+grepixutils/grepixutils.iml

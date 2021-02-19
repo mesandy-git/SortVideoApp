@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887880618401",
+    "project_id": "large-storage-9ea8c",
+    "storage_bucket": "large-storage-9ea8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887880618401:android:f60556a327c24706563be0",
+        "android_client_info": {
+          "package_name": "com.video.playerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887880618401-6ive0ae0c9pv183htrf7qtu1otgnb21r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZB-I_dawfkshLG_WcBbk959oSb9ccYL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887880618401-6ive0ae0c9pv183htrf7qtu1otgnb21r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
